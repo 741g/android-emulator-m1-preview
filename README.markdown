@@ -1,5 +1,7 @@
 # Android Emulator M1 Preview
 
+Note: There is an official repo now which is preferred: [](https://github.com/google/android-emulator-m1-preview). We will still watch this repo for issues and comments, but please redirect your activity to the official repo.
+
 This is a preview of some basic Android emulation functionality on the M1. There are still many issues, but apps work at a basic level. To be updated soon with more fixes. The release tag corresponds to this commit: <https://android.googlesource.com/platform/external/qemu/+/aca144a9e9264b11c2d729096af90d695d01455d>
 
 ## Known issues
