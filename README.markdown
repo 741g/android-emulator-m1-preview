@@ -7,7 +7,6 @@ This is a preview of some basic Android emulation functionality on the M1. There
 ## Known issues
 
 - Webview doesn't work
-- No sound
 - No device skins
 - Video codecs not working
 - 32 bit ARM apps won't work
